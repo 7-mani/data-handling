@@ -1,0 +1,14 @@
+6. Suggested Practical List:
+Term-1
+Python Programming
+Read a text file line by line and display each word separated by a #.
+Read a text file and display the number of vowels/consonants/uppercase/lowercase characters
+in the file.
+Remove all the lines that contain the character 'a' in a file and write it to another file.
+Create a binary file with name and roll number. Search for a given roll number and display the
+name, if not found display appropriate message.
+Create a binary file with roll number, name and marks. Input a roll number and update the marks.
+Write a random number generator that generatesrandom numbers between 1 and 6 (simulates
+a dice).
+Create a CSV file by entering user-id and password, read and search the password for given user-
+id
